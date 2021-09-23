@@ -13,7 +13,7 @@ author: Thomas Benchetrit
 externalLink: false
 ---
 
-This is a project carried out under the supervision of the french member of parliament [Paula Forteza ](https://www.linkedin.com/in/paula-forteza-07191895/) and [Louis Magnes] (https://www.linkedin.com/in/louis-magnes-91b35169/).
+This is a project carried out under the supervision of the french member of parliament [Paula Forteza](https://www.linkedin.com/in/paula-forteza-07191895/) and [Louis Magnes](https://www.linkedin.com/in/louis-magnes-91b35169/).
 
 ---
 
