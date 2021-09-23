@@ -1,9 +1,9 @@
 ---
 title: "DataClimat, a website to raise public awareness on Climat Changes "
 layout: post
-date: 2020-12-17 22:10
+date: 2021-09-01 12:00
 tag: DataViz, WebDev, PR
-image: /assets/images/EPFL_Logo.png
+image: /assets/images/dataclimat.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -36,7 +36,6 @@ The website was designed, both front-end and back-end, using the Dash Plotly fra
 
 
 ### Links
-* Here's the link to the [website](https://www.dataclimat.fr/). 
-* Link to the [repository](https://github.com/EliottZemour/cs-433-project-2-lpmc_dcm).
-* The dataset used is London Passenger Mode Choice (LPMC) revealed-preference data. A description of the features can be found [here](https://transp-or.epfl.ch/documents/technicalReports/CS_LPMC.pdf).
-* Full details of the framework, dataset, and the models it was used to develop are given in [Hillel et al. (2018)](https://doi.org/10.1680/jsmic.17.00018).
+* Link to the [website](https://www.dataclimat.fr/). 
+* Link to the [repository](https://github.com/ThomasBench/DataClimat). The doc is only in french for the moment.
+* You can find the datasets used [here](http://www.drias-climat.fr/) for the DRIAS, and [here](https://www.ipcc.ch/report/ar6/wg1/) for the IPCC.
