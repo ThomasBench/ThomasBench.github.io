@@ -38,14 +38,14 @@ disqus:
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
-spotify: https://open.spotify.com/artist/3cRMm8Zk8xieBAj628ngMs?si=EhO7rKlCTMS1VvElVMSUBA&dl_branch=1
-github: https://github.com/ThomasBench
+spotify: artist/3cRMm8Zk8xieBAj628ngMs?si=EhO7rKlCTMS1VvElVMSUBA&dl_branch=1
+github: ThomasBench
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: benchetritthomas@gmail.com
