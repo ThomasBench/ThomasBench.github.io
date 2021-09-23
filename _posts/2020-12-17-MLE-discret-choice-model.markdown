@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: ""
 category: project
-author: eliott
+author: Thomas Benchetrit
 externalLink: false
 ---
 
