@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: ""
 category: project
-author: eliott
+author: Thomas Benchetrit
 externalLink: false
 ---
 
@@ -25,4 +25,4 @@ During the challenge, we performed a rigorous data preprocessing and got familia
 
 ### Links
 * [AI crowd link](https://www.aicrowd.com/challenges/epfl-machine-learning-higgs)
-* [Report](/assets/projectreports/ml-project1_report.pdf)
+* [Report](/assets/projects/ml-project1_report.pdf)
