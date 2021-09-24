@@ -17,8 +17,7 @@ This is a project carried out under the supervision of the french member of parl
 
 ---
 
-In August 2021, the IPCC presented the first part of its latest report in which it makes a clear statement: the effects of global warming will accelerate, regardless of the rate at which greenhouse gas emissions are reduced. In this context, "Every fraction of a degree counts" the report says. This last injunction reminds us of the emergency of the mobilization necessary to radically transform our lifestyles, but also the urgency of making ecology the priority and the heart of decision-making. In this context, scientific data that proves these dramatic developments must be available to the greatest number of people. 
-Therefore in order to raise public awareness about those interrogations of paramount importance, the french member of parliament Paula Forteza decided to develop a webapp to better understand the repercussions of the climat change on the french climat.
+Image enhancement is a well-researched field with many papers written on this topic. In this project, we investigate and create an emotion-based image enhancement system by using pre-defined methods and algorithms. This system edits the images to increase the intensity of a given emotion to produce plausible images. 
 
 The visualisations were produced using to main databases : 
 - the Drias database, "les futurs du climat", which "makes available regionalised climate projections produced in French climate modelling laboratories (IPSL, CERFACS, CNRM)". 
