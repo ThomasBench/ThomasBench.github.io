@@ -13,28 +13,30 @@ author: Thomas Benchetrit
 externalLink: false
 ---
 
-This is a project carried out under the supervision of the french member of parliament [Paula Forteza](https://www.linkedin.com/in/paula-forteza-07191895/) and [Louis Magnes](https://www.linkedin.com/in/louis-magnes-91b35169/).
+
+This is a project carried out for the CS-413 Computational Photography course at EPFL.
+* Supervisors:
+  * Sabine Süsstrunk
+  * Bahar Aydemir
 
 ---
 
+
 Image enhancement is a well-researched field with many papers written on this topic. In this project, we investigate and create an emotion-based image enhancement system by using pre-defined methods and algorithms. This system edits the images to increase the intensity of a given emotion to produce plausible images. 
+Using scrapped images from Instagram, we created a dataset of 100 pictures for each emotion targeted: Those emotions were happy, sad, calm and fear. Then after extracting and applying the characteristics of these images (contrast,luminance,color palette, colorfulness) onto the targeted picture, we were able to enhance the emotion in the final image.
 
-The visualisations were produced using to main databases : 
-- the Drias database, "les futurs du climat", which "makes available regionalised climate projections produced in French climate modelling laboratories (IPSL, CERFACS, CNRM)". 
-- The IPCC database,  taken directly from the first part of the IPCC's sixth report, published in early August 2021. 
-
-
-The website was designed, both front-end and back-end, using the Dash Plotly framework, which bases itself on the Flask framework for Python, Bootstrap and React for the front-end. On top of it, in order to avoid server-side rendering and latency, the client-side callbacks are written in javascript.
+The code is entierly written on Python, and is available to  use on a jupyter notebook. A website will be developped to be able to enhance the images of anyone who wants to try the project.
 
 ---
 
 ### About this project
-* Python, Javascript
-* Packages/Librairies: Pandas, Dash, plotly, Leaflet
-* Interactive Data vizualisations
+* Python
+* Packages/Librairies: OpenCV, Instascrapper, Matplotlib
+* Image Enhancement 
+* Computer vision
 
 
 ### Links
-* Link to the [website](https://www.dataclimat.fr/). 
-* Link to the [repository](https://github.com/ThomasBench/DataClimat). The doc is only in french for the moment.
-* You can find the datasets used [here](http://www.drias-climat.fr/) for the DRIAS, and [here](https://www.ipcc.ch/report/ar6/wg1/) for the IPCC.
+* Link to the [report](/assets/projects/comphoto.pdf). 
+* Link to the [repository](https://github.com/ThomasBench/EmotionChanger).
+* The used dataset is available on the github repository of the project.
