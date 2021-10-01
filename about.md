@@ -4,33 +4,34 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I'm a Data Science student at the Ecole Polytechnique Fédérale de Lausanne in Switzerland.
-I'm currently 
+<p>Hi, I'm currently following a Master in Data Sciences at the Ecole Polytechnique Fédérale de Lausanne in Switzerland.
+I'm currently looking for an internship in IA, IA for creativity, Computer Vision, NLP, or data science for decision making.
 </p>
 
-<h2>Skills</h2>
+<h2>Skills</h2>Technical skills
+Python, Scala, SQL,HTML/CSS/JS,, C++,
+Matlab, Latex, Git
+PyTorch, TensorFlow, Keras, Pandas,
+numpy, scikit-learn, OpenCv, nltk ,
+Plotly, matplotlib
+Hadoop & Spark
+Familiar with ReactJs, D3js and
+Dlask/Django frameworks
+Cubase, Audacity, Kontakt
+Illustrator, Lightroom and Photoshop
+Slack, Trello, Mattermost,
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Scala</li>
+	<li>SQL</li>
+	<li>Html - JS - CSS</li>
+	<li>C++</li>
+	<li>Hadoop - Spark</li>
+	<li>PyTorch - TensorFlow - Keras </li>
+	<li>Pandas - Numpy - Scikit-learn - OpenCV - ntlk</li>
+	<li>ReactJS - D3js - Flask/Django</li>
+	<li>Git - Latex</li>
+	<li>Audacity - Cubase - Photoshop - Lightroom - Illustrator</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
