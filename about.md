@@ -8,18 +8,7 @@ layout: page
 I'm currently looking for an internship in IA, IA for creativity, Computer Vision, NLP, or data science for decision making.
 </p>
 
-<h2>Skills</h2>Technical skills
-Python, Scala, SQL,HTML/CSS/JS,, C++,
-Matlab, Latex, Git
-PyTorch, TensorFlow, Keras, Pandas,
-numpy, scikit-learn, OpenCv, nltk ,
-Plotly, matplotlib
-Hadoop & Spark
-Familiar with ReactJs, D3js and
-Dlask/Django frameworks
-Cubase, Audacity, Kontakt
-Illustrator, Lightroom and Photoshop
-Slack, Trello, Mattermost,
+<h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>Python</li>
