@@ -15,7 +15,7 @@ externalLink: false
 
 This is a project carried out for the [Applied Data Analysis](https://edu.epfl.ch/coursebook/en/applied-data-analysis-CS-401) course at EPFL by [Pr. West](https://scholar.google.com/citations?user=ZiFn598AAAAJ).
 
-Made in collaboration with [Eliott Zemour](https://www.linkedin.com/in/eliott-zemour/), [Matheus Bernat](https://www.linkedin.com/in/matheus-bernat/), and [Benjamin Hansson](https://www.linkedin.com/in/benjamin-hansson-39b391140/)
+Made in collaboration with [Eliott Zemour](https://www.linkedin.com/in/eliott-zemour/), [Matheus Bernat](https://www.linkedin.com/in/matheus-bernat/), and [Benjamin Hansson](https://www.linkedin.com/in/benjamin-hansson-39b391140/).
 
 ---
 
