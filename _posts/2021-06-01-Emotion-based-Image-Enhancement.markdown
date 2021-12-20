@@ -3,7 +3,7 @@ title: "Emotion Based Image Enhancement"
 layout: post
 date: 2021-06-01 12:00
 tag: Computer Vision, Image Enhancement, Python
-image: /assets/images/EPFL_Logo.jpg
+image: /assets/images/EPFL_Logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

@@ -3,7 +3,7 @@ title: "Who has a voice in the media ? An EPFL project to discover who to be quo
 layout: post
 date: 2021-12-20 12:00
 tag: DataViz, WebDev, Python, API
-image: /assets/images/EPFL_Logo.jpg
+image: /assets/images/EPFL_Logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
