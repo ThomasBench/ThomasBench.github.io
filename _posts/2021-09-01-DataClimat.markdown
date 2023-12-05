@@ -36,6 +36,6 @@ The website was designed, both front-end and back-end, using the Dash Plotly fra
 
 
 ### Links
-* Link to the [website](https://www.dataclimat.fr/). 
+* Link to the [website](http://thomasben.pythonanywhere.com/). 
 * Link to the [repository](https://github.com/ThomasBench/DataClimat). The doc is only in french for the moment.
 * You can find the datasets used [here](http://www.drias-climat.fr/) for the DRIAS, and [here](https://www.ipcc.ch/report/ar6/wg1/) for the IPCC.
