@@ -4,12 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I'm currently following a Master in Data Sciences at the Ecole Polytechnique Fédérale de Lausanne in Switzerland.
-I'm currently looking for an internship in IA, IA for creativity, Computer Vision, NLP, or data science for decision making.
-</p>
-
-<h2>Skills</h2>
-
+<p>Hi, I have recently graduated from a Master in Data Sciences at the Ecole Polytechnique Fédérale de Lausanne in Switzerland.
 <ul class="skill-list">
 	<li>Python</li>
 	<li>Scala</li>
