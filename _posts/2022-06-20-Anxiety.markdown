@@ -28,7 +28,4 @@ them to perform date detection on the French newspaper Le Figaro. From it, this 
 together the number of dates expressed in a newspaper to the anxiety of the population at that time.
 ---
 
-### About this project
-* Python, Javascript
-* Packages/Librairies: Pandas, skLearn, plotly, TensorFlow, ReactJS, Flask 
-* Interactive webapp, identity and topic oriented analysis of the QuoteBank dataset
+The project report can be found [here](/assets/projects/anxietyNews.pdf)
