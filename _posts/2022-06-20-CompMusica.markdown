@@ -13,9 +13,9 @@ author: Thomas Benchetrit
 externalLink: false
 ---
 
-This is a project carried out for the [Computer and Music](https://edu.epfl.ch/coursebook/en/computers-and-music-COM-418) course at EPFL by [Pr. West](https://scholar.google.com/citations?user=ZiFn598AAAAJ).
+This is a project carried out for the [Computer and Music](https://edu.epfl.ch/coursebook/en/computers-and-music-COM-418) course at EPFL by [Pr. Süsstrunk](https://people.epfl.ch/sabine.susstrunk).
 
-Made in collaboration with [Eliott Zemour](https://www.linkedin.com/in/eliott-zemour/), [Matheus Bernat](https://www.linkedin.com/in/matheus-bernat/), and [Benjamin Hansson](https://www.linkedin.com/in/benjamin-hansson-39b391140/).
+Made in collaboration with [Matheus Bernat](https://www.linkedin.com/in/matheus-bernat/), and [Husam Jubran](https://people.epfl.ch/husam.jubran).
 
 ---
 
@@ -41,7 +41,4 @@ chord progression.
 
 
 ### Links
-* Link to the [website](https://quotebankers.github.io/). 
-* Link to the [webapp](https://quotebankers.netlify.app/)
-* Link to the [repositories](https://linktr.ee/QuoteBankers)
-* You can find the QuoteBank dataset [here](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf )
+* Link to the [report](//assets/projects/CompMusic.pdf). 
