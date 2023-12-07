@@ -19,18 +19,7 @@ Made under the supervision of [Erik Hemberg](https://alfagroup.csail.mit.edu/eri
 
 ---
 
-Climate change information impacts public understanding and impacts actions to address
-climate change. We study information campaigns in climate change discussions on Online
-Social Networks. We use an information theory based metric, Transfer Entropy, to unveil
-the actors involved, and describe their behavior. We also highlight Large Language
-Models capabilities and limitations in generating climate-related content. We describe the
-behavior of information campaigns through simultaneous activity captured by Transfer
-Entropy. Moreover, we show that Transfer Entropy helps unveil actors involved in
-such campaigns. Finally, we observe that with the rise of LLMs as content generators,
-producing content as credible as human-made articles could still be challenging, and that
-the generation capabilities are biased across the climate change discussion.
-8
-
+Climate change information impacts public understanding and impacts actions to address climate change. We study information campaigns in climate change discussions on Online Social Networks. We use an information theory based metric, Transfer Entropy, to unveil the actors involved, and describe their behavior. We also highlight Large Language Models capabilities and limitations in generating climate-related content. We describe the behavior of information campaigns through simultaneous activity captured by Transfer Entropy. Moreover, we show that Transfer Entropy helps unveil actors involved in such campaigns. Finally, we observe that with the rise of LLMs as content generators, producing content as credible as human-made articles could still be challenging, and that the generation capabilities are biased across the climate change discussion.
 ---
 
 ### About this project
