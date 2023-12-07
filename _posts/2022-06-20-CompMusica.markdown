@@ -41,4 +41,4 @@ chord progression.
 
 
 ### Links
-* Link to the [report](//assets/projects/CompMusic.pdf). 
+* Link to the [report](/assets/projects/CompMusic.pdf). 

@@ -25,4 +25,4 @@ Climate change information impacts public understanding and impacts actions to a
 ### About this project
 
 ### Links
-* Link to the [Thesis](//assets/projects/benchetrit_thomas_pdm.pdf)
+* Link to the [Thesis](/assets/projects/benchetrit_thomas_pdm.pdf)
