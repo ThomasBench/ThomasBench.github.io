@@ -17,8 +17,6 @@ Made under the supervision of [Erik Hemberg](https://alfagroup.csail.mit.edu/eri
 
 ---
 
-# Master's Thesis Description
-
 # Master's Thesis: Analyzing Information Campaigns on Climate Change Discussions in Online Social Networks
 
 ### Overview
