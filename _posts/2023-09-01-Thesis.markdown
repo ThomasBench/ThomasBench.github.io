@@ -1,7 +1,7 @@
 ---
 title: Master's Thesis Analysing Climate Change Information Campaigns on Online Social Networks
 layout: post
-date: 2023-10-07 12:00
+date: 2023-09-01 12:00
 tag: DataViz, WebDev, Python, API
 image: /assets/images/EPFL_Logo.png
 headerImage: true

@@ -1,7 +1,7 @@
 ---
 title: Translating lyrics to chords with RNNs
 layout: post
-date: 2023-10-07 12:00
+date: 2020-06-15 12:00
 tag: DataViz, WebDev, Python, API
 image: /assets/images/EPFL_Logo.png
 headerImage: true
