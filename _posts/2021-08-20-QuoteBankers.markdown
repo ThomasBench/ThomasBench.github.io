@@ -1,7 +1,7 @@
 ---
 title: "Who has a voice in the media ? An EPFL project to discover who to be quotes in newspapers "
 layout: post
-date: 2021-12-20 12:00
+date: 2021-08-20 12:00
 tag: DataViz, WebDev, Python, API
 image: /assets/images/EPFL_Logo.png
 headerImage: true
